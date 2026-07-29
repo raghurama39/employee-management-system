@@ -1,10 +1,10 @@
-#Employee Management System
+\#Employee Management System
 
 This repository contains the complete DevOps capstone project.
 
 ## Technologies
 
--Git
+\-Git
 -GitHub
 -Jenkins
 -Docker
@@ -12,3 +12,12 @@ This repository contains the complete DevOps capstone project.
 -Kubernetes
 -Helm
 -AWS
+
+
+
+Dashboard Module
+
+
+
+Developer A changes.
+
