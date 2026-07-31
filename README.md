@@ -26,3 +26,13 @@ This repository contains the complete DevOps capstone project.
 
 \- AWS
 
+
+
+\## Module Status
+
+
+
+Dashboard Completed
+
+
+
